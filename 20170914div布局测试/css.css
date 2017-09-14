@@ -1,0 +1,21 @@
+html , body{
+    height:100%;
+    margin:0px;
+    padding: 0px;
+}
+#main{
+height: 100%;
+    background-color: #999;
+}
+#nav{
+    background-color: green;
+    height: 100px;
+    width: 100%;
+}
+#content{
+    top:100px;
+    width: 100%;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+}
